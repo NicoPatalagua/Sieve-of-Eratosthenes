@@ -1,4 +1,4 @@
-#Author: Nico Patalagua
+// Author: Nico Patalagua
 public class Prime {
     public static void main(String[] args) {
         int n = 100000000;
